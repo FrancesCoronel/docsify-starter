@@ -4,4 +4,4 @@
     - [Level 3](/1/2/3/README)
       - [Level 4](/1/2/3/4/README)
         - [Level 5](/1/2/3/4/5/README)
-- [Contributing](/.github/CONTRIBUTING)
+- [Contributing](/CONTRIBUTING.md)
