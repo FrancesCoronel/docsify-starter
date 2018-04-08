@@ -30,11 +30,11 @@ docsify serve docs
 
 > To get started...
 
-1. 🍴 [Fork this repo](https://github.com/fvcproductions/docsify-starter#fork-destination-box)
-2. 🔨 View the contributing guidelines at [CONTRIBUTING.md](.github/CONTRIBUTING.md)
-3. 👥 Add yourself as a contributor under the credits section
-4. 🔧 [Open a new pull request](https://github.com/fvcproductions/docsify-starter/compare)
-5. 🎉 Get your pull request approved - success!
+1.  🍴 [Fork this repo](https://github.com/fvcproductions/docsify-starter#fork-destination-box)
+2.  🔨 View the contributing guidelines at [CONTRIBUTING.md](https://github.com/fvcproductions/docsify-starter/blob/master/CONTRIBUTING.md)
+3.  👥 Add yourself as a contributor under the credits section
+4.  🔧 [Open a new pull request](https://github.com/fvcproductions/docsify-starter/compare)
+5.  🎉 Get your pull request approved - success!
 
 Or just [create an issue](https://github.com/fvcproductions/docsify-starter/issues) - any little bit of help counts! 😊
 
@@ -42,8 +42,8 @@ Or just [create an issue](https://github.com/fvcproductions/docsify-starter/issu
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-More details can be found at this project's [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+More details can be found at this project's [CODE_OF_CONDUCT.md](https://github.com/fvcproductions/docsify-starter/blob/master/CODE_OF_CONDUCT.md).
 
 ## Credits
 
-- [FVCproductions](https://github.com/fvcproductions) 🍓🍫
+* [FVCproductions](https://github.com/fvcproductions) 🍓🍫
