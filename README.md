@@ -6,7 +6,7 @@
 
 A boilerplate for docsify projects. 📝️
 
-> View this project at [`fvcproductions.github.io/docsify-starter`](fvcproductions.github.io/docsify-starter)
+> View this project at [`https://docsify.fvcproductions.com`](https://docsify.fvcproductions.com)
 
 ## Installation
 
