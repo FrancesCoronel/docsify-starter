@@ -4,7 +4,7 @@
 
 > A boilerplate for docsify projects. 📝️
 
-[GitHub](https://github.com/fvcproductions/docsify-starter)
+[GitHub](https://github.com/FrancesCoronel/docsify-starter)
 [Get Started](#docsify-starter)
 
 ![color](#f0f0f0)
